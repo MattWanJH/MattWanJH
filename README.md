@@ -1,4 +1,5 @@
 ### Hi there 👋 I'm Matt!
+# 1st Year BCS Student at UBC
 <!--
 **MattWanJH/MattWanJH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
