@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Matt!
 
-### 1st Year BCS Student at UBC
+### BCS Student at UBC
+I'm passionate about Computer Science and hoping to build some awesome stuff! 
 <!--
 **MattWanJH/MattWanJH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
