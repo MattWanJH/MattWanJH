@@ -1,1 +1,1 @@
-Thanks for visitng :)
+Thanks for visiting :)
